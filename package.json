@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Basic algorithm test for appliers",
   "main": "index.js",
-  "repository": "git@gitlab.com:gymlib/technical-test.git",
+  "repository": "git@github.com:vivitos/technical-test.git",
   "author": "Vivien <vivien@gymlib.com>",
   "license": "MIT",
   "scripts": {
