@@ -5,7 +5,7 @@
 Clone repository using git CLI:
 
 ```sh
-git clone ...
+git clone git@github.com:vivitos/technical-test.git
 ```
 
 Install packages using yarn or npm:
