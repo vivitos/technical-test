@@ -17,7 +17,7 @@ yarn
 npm i
 ```
 
-## Excercise
+## Exercise 1
 
 Given an array of strings, write a function to print groupd of anagram. Anagrams have the same letters in different order. The function should have the following signature:
 
@@ -35,3 +35,11 @@ bat
 cat,tac
 */
 ```
+
+## Exercise 2
+
+Create a Fifo class that work as a FIFO stack.
+
+- FIFO stands for First-in First-out, so the first element stacked should be the the first to quit it.
+- The stack size should be configurable.
+- This Fifo class should implement a method a `stack` method to stack a new item
